@@ -1,10 +1,10 @@
 #include <stdio.h>
 /**
-*main - entry point
-*return:0 (success)
+*main - the fuction prints outtext using puts()
+*return: always 0 (success)
 */
 int main(void)
 {
-puts("\ "Programming is like building a multilingual puzzle");
-return (0);
+	puts("\"programming is like building amultilingual puzzle");
+        return (0);
 }
